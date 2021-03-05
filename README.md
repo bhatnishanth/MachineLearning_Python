@@ -19,8 +19,8 @@ The following algorithms have been implemented by me.
 ## Installation
 
  1. Git clone this repository or download as zip or download selected files.
- 2. Note : you should have jupyter notebook installed for this or you can also use google colab.
-	 <span>Google Colab - <a>https://colab.research.google.com/</a></span>
+ 2. Note : you should have jupyter notebook installed for this or you can also use google colab.<br>
+	 <span>Google Colab - <a>https://colab.research.google.com/</a></span><br>
 	 <span>Jupyter Notebook Download - <a>https://www.anaconda.com/products/individual#:~:text=Anaconda%20Navigator%20is%20a%20desktop,without%20using%20command%2Dline%20commands.</a></span>
  3. Python ^3.6 is expected to be installed and the corresponding valid versions for numpy, scikit-learn and matplotlib libraries needs to be installed.
  
